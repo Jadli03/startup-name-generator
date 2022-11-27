@@ -1,4 +1,4 @@
-# first_app
+# Startup App Gen
 
 A new Flutter project.
 
